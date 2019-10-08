@@ -1,0 +1,24 @@
+{
+  "name": "challenge_2",
+  "version": "1.0.0",
+  "description": "CSV report generator mini app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justindchan/hrsf122-mini-apps-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justindchan/hrsf122-mini-apps-1/issues"
+  },
+  "homepage": "https://github.com/justindchan/hrsf122-mini-apps-1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
+  }
+}
