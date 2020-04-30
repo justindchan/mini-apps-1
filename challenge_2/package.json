@@ -19,6 +19,6 @@
   "homepage": "https://github.com/justindchan/hrsf122-mini-apps-1#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
